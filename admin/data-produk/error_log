@@ -1,0 +1,16 @@
+[05-Jul-2022 15:20:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 3
+[05-Jul-2022 15:20:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 8
+[05-Jul-2022 15:20:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 10
+[05-Jul-2022 15:20:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 3
+[05-Jul-2022 15:20:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 8
+[05-Jul-2022 15:20:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 10
+[05-Jul-2022 15:20:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 3
+[05-Jul-2022 15:21:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 3
+[05-Jul-2022 15:21:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 32
+[05-Jul-2022 15:21:00 Asia/Jakarta] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 33
+[05-Jul-2022 15:21:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 3
+[05-Jul-2022 15:21:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 8
+[05-Jul-2022 15:21:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 10
+[05-Jul-2022 15:21:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 3
+[05-Jul-2022 15:21:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 8
+[05-Jul-2022 15:21:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rasyiedf/public_html/admin/data-produk/produk_function.php on line 10
